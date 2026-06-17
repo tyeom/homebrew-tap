@@ -1,6 +1,6 @@
 cask "tokendock" do
-  version "1.2.0"
-  sha256 "0f18297466be3fa0b89b8d17b45923c2c2776e06f279002f8bc8576bd49b2cba"
+  version "1.2.1"
+  sha256 "a0863d5a75850d8a1236eae9264f6deab49f6919dd0b9a1b1d40e2e23db813af"
 
   url "https://github.com/tyeom/TokenDock-MacOS/releases/download/v#{version}/TokenDock-#{version}.zip"
   name "TokenDock"
